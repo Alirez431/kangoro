@@ -6,3 +6,8 @@
   transition: width 2s;
   transition:  color 5s;
 }
+@media (max-width:500px){
+  nav {
+    margin: 0 !important;
+  }
+}

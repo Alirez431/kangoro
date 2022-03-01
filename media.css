@@ -10,4 +10,8 @@
   nav {
     margin: 0 !important;
   }
+  .img-footer {
+    width: 70px;
+    height: 70px;
+  }
 }

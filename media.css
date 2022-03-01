@@ -10,7 +10,10 @@
   nav {
     margin: 0 !important;
   }
-  .img-footer {
+ 
+}
+@media (max-width:992px ) {
+   .img-footer {
     width: 70px;
     height: 70px;
   }
